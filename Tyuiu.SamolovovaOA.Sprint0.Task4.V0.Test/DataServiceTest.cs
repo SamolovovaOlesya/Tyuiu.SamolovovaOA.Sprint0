@@ -23,7 +23,7 @@ namespace Tyuiu.SamolovovaOA.Sprint0.Task4.V0.Test
         }
         public void CheckedDivisionValid() 
         {
-            Assert.AreEqual(3, DataService.Division(9, 3));
+            Assert.AreEqual(3, DataService.Division(9, 3)); 
         }
     }
 }

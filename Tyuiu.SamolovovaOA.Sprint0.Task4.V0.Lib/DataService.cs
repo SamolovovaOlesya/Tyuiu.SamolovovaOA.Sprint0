@@ -22,7 +22,7 @@ namespace Tyuiu.SamolovovaOA.Sprint0.Task4.V0.Lib
         }
         public static int Division(int a, int b) 
         {
-            return a / b;
+            return a / b; 
         }
     } 
         
